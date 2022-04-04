@@ -9,7 +9,7 @@ interfaces, working with packages, file handling and exceptions.
 The course concluded with the creation of desktop applications using the Swing framework. 
 The average grade obtained for these homework project is 8.9/10.
 
-My work for my university's Data Analytics course are represented by the eight Juptyter notebooks. 
+My work for my university's Data Analytics course is represented by the seven Juptyter notebooks. 
 These projects provided me with valuable experience in implementing data engineering tasks in Python. Statistical principles, SQL, 
 cleaning data, data transformations, data visualization, analyzing and modeling data are some of the topics addressed and applied 
 in Python with Jupyter Notebooks.
